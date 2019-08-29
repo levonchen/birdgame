@@ -1,0 +1,19 @@
+<Solution>
+  <PropertyGroup Name="bird" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="images">
+          <Image Name="ZHANSHI_type01_body.png" />
+          <Image Name="ZHANSHI_type01_head.png" />
+          <Image Name="zhanshi_type02_body.png" />
+          <Image Name="zhanshi_type02_head.png" />
+          <Image Name="zhenghe1.jpg" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="HomeScene.csd" Type="Scene" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

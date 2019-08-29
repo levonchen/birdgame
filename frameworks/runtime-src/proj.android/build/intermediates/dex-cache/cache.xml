@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\259f3934e3ed908664e6814cd94f210d\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\cocos_quick\qc_test1\gamebird\bird\frameworks\runtime-src\proj.android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\cocos_quick\qc_test1\gamebird\bird\frameworks\runtime-src\proj.android\libcocos2dx\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0effb3fe9f6589a1bcfc7641a1a5a1b29de86f50">
+        <dex dex="D:\cocos_quick\qc_test1\gamebird\bird\frameworks\runtime-src\proj.android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="28.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\cocos_quick\qc_test1\gamebird\bird\frameworks\runtime-src\proj.android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\259f3934e3ed908664e6814cd94f210d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\cocos_quick\qc_test1\gamebird\bird\frameworks\runtime-src\proj.android\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>
