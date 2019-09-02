@@ -41,6 +41,10 @@ function Hero:initView( data )
 	self.liveLabel = display.newTTFLabel({text = data.hp, size = 32})	
 	:addTo(self)
 
+	local posY = self.liveLabel:getPositionY()
+	posY = posY + 50
+	self.liveLabel:setPositionY(posY)
+
 end
 
 function Hero:updateHp(hp)
@@ -54,7 +58,7 @@ end
 function Hero:acquireBoom()
 	self.boomCount = self.boomCount + 1
 
-	self:getParent():addHP()
+	--self:getParent():addHP()
 end
 
 function Hero:getBoomCount()

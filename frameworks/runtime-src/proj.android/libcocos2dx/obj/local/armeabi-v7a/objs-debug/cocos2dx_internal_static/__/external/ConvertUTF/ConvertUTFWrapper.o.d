@@ -1,17 +1,17 @@
-D:/cocos_quick/qc_test1/gamebird/bird/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cocos2dx_internal_static/__/external/ConvertUTF/ConvertUTFWrapper.o: \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./../external/ConvertUTF/ConvertUTFWrapper.cpp \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./../external/ConvertUTF/ConvertUTF.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/assert.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h
+E:/GitRoot/qcocos_game/cctest/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cocos2dx_internal_static/__/external/ConvertUTF/ConvertUTFWrapper.o: \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./../external/ConvertUTF/ConvertUTFWrapper.cpp \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./../external/ConvertUTF/ConvertUTF.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/assert.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./../external/ConvertUTF/ConvertUTF.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./../external/ConvertUTF/ConvertUTF.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/assert.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/assert.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:

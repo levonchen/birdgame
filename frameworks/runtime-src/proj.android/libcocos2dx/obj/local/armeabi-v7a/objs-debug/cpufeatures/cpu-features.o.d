@@ -1,182 +1,182 @@
-D:/cocos_quick/qc_test1/gamebird/bird/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cpufeatures/cpu-features.o: \
- D:/tools/cocos/android-ndk-r10d/sources/android/cpufeatures/cpu-features.c \
- D:/tools/cocos/android-ndk-r10d/sources/android/cpufeatures/cpu-features.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/dlfcn.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/errno.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/errno.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/errno.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/errno.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/errno-base.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/fcntl.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/fcntl.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/fcntl.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/fcntl.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/unistd.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/time.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/time.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/signal.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/signal.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/ucontext.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/user.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysconf.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/capability.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pathconf.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pthread.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/time.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sched.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdio.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/system_properties.h
+E:/GitRoot/qcocos_game/cctest/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cpufeatures/cpu-features.o: \
+ E:/android/android-ndk-r10d/sources/android/cpufeatures/cpu-features.c \
+ E:/android/android-ndk-r10d/sources/android/cpufeatures/cpu-features.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/dlfcn.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/errno.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/errno.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/errno.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/errno.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/errno-base.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/fcntl.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/fcntl.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/fcntl.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/fcntl.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/unistd.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/time.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/time.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/signal.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/signal.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/ucontext.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/user.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysconf.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/capability.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pathconf.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pthread.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/time.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sched.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdio.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/system_properties.h
 
-D:/tools/cocos/android-ndk-r10d/sources/android/cpufeatures/cpu-features.h:
+E:/android/android-ndk-r10d/sources/android/cpufeatures/cpu-features.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/dlfcn.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/dlfcn.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/errno.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/errno.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/errno.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/errno.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/errno.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/errno.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/errno.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/errno.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/errno-base.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/errno-base.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/fcntl.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/fcntl.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/fcntl.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/fcntl.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/fcntl.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/fcntl.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/fcntl.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/fcntl.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/unistd.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/unistd.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/time.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/time.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/time.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/time.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/signal.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/signal.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/signal.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/signal.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/ucontext.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/ucontext.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/user.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/user.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysconf.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysconf.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/capability.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/capability.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pathconf.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pathconf.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pthread.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/pthread.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/time.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/time.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sched.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sched.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdio.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdio.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/system_properties.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/system_properties.h:

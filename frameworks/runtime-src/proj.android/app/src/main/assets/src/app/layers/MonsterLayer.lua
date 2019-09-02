@@ -58,7 +58,7 @@ function MonsterLayer:getInstance()
 		monster:initView( data )
 		monster:setPosition( startPos )
 		monster:setTargetPoint( targetPos )
-		monster.isAttack = math.random()*10 > 8
+		monster.isAttack = math.random()*10 > 6
 		return monster
 	end
 

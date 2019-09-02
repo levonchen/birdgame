@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'bird' target in the 'bird' project
+// Prefix header for all source files of the 'cctest' target in the 'cctest' project
 //
 
 #ifdef __OBJC__

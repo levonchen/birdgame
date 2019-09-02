@@ -1,317 +1,317 @@
-D:/cocos_quick/qc_test1/gamebird/bird/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cocos2dx_internal_static/2d/CCFontAtlas.o: \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCFontAtlas.cpp \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCFontAtlas.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformMacros.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccConfig.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformConfig.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformDefine.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCPlatformDefine-android.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCRef.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCStdC.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCStdC-android.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCFontFreeType.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCFont.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCLabel.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCSpriteBatchNode.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCNode.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccMacros.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCConsole.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccRandom.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCVector.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCProtocols.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccTypes.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/CCGeometry.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/CCMath.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec2.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/CCMathBase.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec2.inl \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec2.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec3.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec3.inl \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec3.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Mat4.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec4.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec4.inl \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Mat4.inl \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec4.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Mat4.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Quaternion.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Quaternion.inl \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCGL.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCGL-android.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCTexture2D.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCScriptSupport.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCCommon.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCTouch.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventTouch.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEvent.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventKeyboard.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/CCAffineTransform.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./physics/CCPhysicsBody.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCComponent.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./physics/CCPhysicsShape.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCTextureAtlas.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCBatchCommand.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCRenderCommand.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCCustomCommand.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ft2build.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftheader.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/freetype.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftconfig.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftoption.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftstdlib.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/setjmp.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/setjmp.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/fttypes.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftsystem.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftimage.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/fterrors.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftmoderr.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/fterrdef.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftstroke.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftoutln.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftglyph.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccUTF8.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/jni/JniHelper.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCDirector.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCScene.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCGLView.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventListenerCustom.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventListener.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventDispatcher.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventType.h
+E:/GitRoot/qcocos_game/cctest/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cocos2dx_internal_static/2d/CCFontAtlas.o: \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCFontAtlas.cpp \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCFontAtlas.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformMacros.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccConfig.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformConfig.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformDefine.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCPlatformDefine-android.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCRef.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCStdC.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCStdC-android.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCFontFreeType.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCFont.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCLabel.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCSpriteBatchNode.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCNode.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccMacros.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCConsole.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccRandom.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCVector.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCProtocols.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccTypes.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/CCGeometry.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/CCMath.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec2.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/CCMathBase.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec2.inl \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec2.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec3.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec3.inl \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec3.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Mat4.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec4.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec4.inl \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Mat4.inl \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec4.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Mat4.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Quaternion.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Quaternion.inl \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCGL.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCGL-android.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCTexture2D.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCScriptSupport.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCCommon.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCTouch.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventTouch.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEvent.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventKeyboard.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/CCAffineTransform.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./physics/CCPhysicsBody.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCComponent.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./physics/CCPhysicsShape.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCTextureAtlas.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCBatchCommand.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCRenderCommand.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCCustomCommand.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ft2build.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftheader.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/freetype.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftconfig.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftoption.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftstdlib.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/setjmp.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/setjmp.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/fttypes.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftsystem.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftimage.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/fterrors.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftmoderr.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/fterrdef.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftstroke.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftoutln.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftglyph.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccUTF8.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/jni/JniHelper.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCDirector.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCScene.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCGLView.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventListenerCustom.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventListener.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventDispatcher.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventType.h
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCFontAtlas.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCFontAtlas.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformMacros.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformMacros.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccConfig.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccConfig.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformConfig.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformConfig.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformDefine.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformDefine.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCPlatformDefine-android.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCPlatformDefine-android.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCRef.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCRef.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCStdC.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCStdC.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCStdC-android.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCStdC-android.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCFontFreeType.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCFontFreeType.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCFont.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCFont.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCLabel.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCLabel.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCSpriteBatchNode.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCSpriteBatchNode.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCNode.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCNode.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccMacros.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccMacros.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCConsole.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCConsole.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccRandom.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccRandom.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCVector.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCVector.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCProtocols.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCProtocols.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccTypes.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccTypes.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/CCGeometry.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/CCGeometry.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/CCMath.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/CCMath.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec2.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec2.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/CCMathBase.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/CCMathBase.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec2.inl:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec2.inl:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec2.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec2.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec3.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec3.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec3.inl:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec3.inl:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec3.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec3.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Mat4.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Mat4.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec4.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec4.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec4.inl:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec4.inl:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Mat4.inl:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Mat4.inl:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Vec4.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Vec4.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Mat4.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Mat4.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Quaternion.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Quaternion.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/Quaternion.inl:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/Quaternion.inl:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCGL.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCGL.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCGL-android.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCGL-android.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCTexture2D.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCTexture2D.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCScriptSupport.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCScriptSupport.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCCommon.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCCommon.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCTouch.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCTouch.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventTouch.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventTouch.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEvent.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEvent.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventKeyboard.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventKeyboard.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./math/CCAffineTransform.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./math/CCAffineTransform.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./physics/CCPhysicsBody.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./physics/CCPhysicsBody.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCComponent.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCComponent.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./physics/CCPhysicsShape.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./physics/CCPhysicsShape.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCTextureAtlas.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCTextureAtlas.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCBatchCommand.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCBatchCommand.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCRenderCommand.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCRenderCommand.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/CCCustomCommand.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/CCCustomCommand.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ft2build.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ft2build.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftheader.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftheader.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/freetype.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/freetype.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftconfig.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftconfig.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftoption.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftoption.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftstdlib.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/config/ftstdlib.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/setjmp.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/setjmp.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/setjmp.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/setjmp.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/fttypes.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/fttypes.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftsystem.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftsystem.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftimage.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftimage.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/fterrors.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/fterrors.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftmoderr.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftmoderr.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/fterrdef.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/fterrdef.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftstroke.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftstroke.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftoutln.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftoutln.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/freetype2/prebuilt/android/../../include/android/freetype2/ftglyph.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/freetype2/prebuilt/android/../../include/android/freetype2/ftglyph.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccUTF8.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccUTF8.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/jni/JniHelper.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/jni/JniHelper.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCDirector.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCDirector.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./2d/CCScene.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./2d/CCScene.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCGLView.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCGLView.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventListenerCustom.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventListenerCustom.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventListener.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventListener.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventDispatcher.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventDispatcher.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/CCEventType.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/CCEventType.h:

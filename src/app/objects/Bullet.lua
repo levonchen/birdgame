@@ -6,10 +6,13 @@ Bullet = class("Bullet", function ()
 	return display.newNode()
 end)
 
-function Bullet:ctor()
+function Bullet:ctor(isHeroButtet)
 	self.sprite = nil
 	self.spend = 0.002
-	self.sprite = display.newSprite("#bullet1.png"):addTo(self)
+
+	local bullet = "#bullet1.png"
+	
+	self.sprite = display.newSprite(bullet):addTo(self)
 	self:setContentSize( self.sprite:getContentSize().width,self.sprite:getContentSize().height )
 end
 
@@ -18,6 +21,23 @@ function Bullet:resert()
 	self:setRotation(0)
 	self:removeAllChildren()
 	self:ctor()
+end
+
+
+function Bullet:updateBulletType(type)
+	local bullet = "bullet2.png"
+
+	if type == BulletEnum.HERO_BULLET then
+		bullet = "bullet1.png"
+
+		--print("Hero bullet")
+	end
+
+	--local frame = display.newSpriteFrame(bullet)
+	self.sprite:setSpriteFrame(bullet)
+
+	--self.sprite = display.newSprite(bullet):addTo(self)
+	--self:setContentSize( self.sprite:getContentSize().width,self.sprite:getContentSize().height )
 end
 
 function Bullet:onEnter()

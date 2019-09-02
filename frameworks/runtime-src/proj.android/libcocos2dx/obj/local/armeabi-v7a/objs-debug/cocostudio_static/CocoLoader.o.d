@@ -1,95 +1,95 @@
-D:/cocos_quick/qc_test1/gamebird/bird/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cocostudio_static/CocoLoader.o: \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/editor-support/cocostudio/CocoLoader.cpp \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/editor-support/cocostudio/CocoLoader.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/document.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/reader.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/rapidjson.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdlib \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/inttypes.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/allocators.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/encodings.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/meta.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/../rapidjson.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/stack.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/swap.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/strtod.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/ieee754.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/biginteger.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/diyfp.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/pow10.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/error/error.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/error/../rapidjson.h \
- D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/strfunc.h \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/new \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator \
- D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/utility \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/ui/../editor-support/cocostudio/CocosStudioExport.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/zlib.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/zconf.h
+E:/GitRoot/qcocos_game/cctest/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cocostudio_static/CocoLoader.o: \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/editor-support/cocostudio/CocoLoader.cpp \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/editor-support/cocostudio/CocoLoader.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/document.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/reader.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/rapidjson.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdlib \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/inttypes.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/allocators.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/encodings.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/meta.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/../rapidjson.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/stack.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/swap.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/strtod.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/ieee754.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/biginteger.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/diyfp.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/pow10.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/error/error.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/error/../rapidjson.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/strfunc.h \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/new \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator \
+ E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/utility \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/ui/../editor-support/cocostudio/CocosStudioExport.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/zlib.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/zconf.h
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/editor-support/cocostudio/CocoLoader.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/editor-support/cocostudio/CocoLoader.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/document.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/document.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/reader.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/reader.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/rapidjson.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/rapidjson.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdlib:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdlib:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/inttypes.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/inttypes.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/allocators.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/allocators.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/encodings.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/encodings.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/meta.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/meta.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/../rapidjson.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/../rapidjson.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/stack.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/stack.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/swap.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/swap.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/strtod.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/strtod.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/ieee754.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/ieee754.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/biginteger.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/biginteger.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/diyfp.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/diyfp.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/pow10.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/pow10.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/error/error.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/error/error.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/error/../rapidjson.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/error/../rapidjson.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/external/flatbuffers/../json/internal/strfunc.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/external/flatbuffers/../json/internal/strfunc.h:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/new:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/new:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator:
 
-D:/tools/cocos/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/utility:
+E:/android/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/utility:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/ui/../editor-support/cocostudio/CocosStudioExport.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/ui/../editor-support/cocostudio/CocosStudioExport.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/zlib.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/zlib.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/zconf.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/zconf.h:

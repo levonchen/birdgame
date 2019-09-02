@@ -1,143 +1,143 @@
-D:/cocos_quick/qc_test1/gamebird/bird/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cocos2dx_internal_static/renderer/ccShaders.o: \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShaders.cpp \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShaders.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCGL.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformConfig.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCGL-android.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformMacros.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccConfig.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformDefine.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCPlatformDefine-android.h \
- D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Position_uColor.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Position_uColor.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionColor.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionColor.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTexture.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTexture.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureA8Color.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureA8Color.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColor.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColor.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColor_noMVP.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColor_noMVP.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColorAlphaTest.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTexture_uColor.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTexture_uColor.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionColorLengthTexture.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionColorLengthTexture.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label_df.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label_df_glow.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label_normal.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label_outline.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_PositionTex.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_Color.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_ColorTex.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_PositionNormalTex.vert \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_ColorNormal.frag \
- D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_ColorNormalTex.frag
+E:/GitRoot/qcocos_game/cctest/frameworks/runtime-src/proj.android/libcocos2dx//obj/local/armeabi-v7a/objs-debug/cocos2dx_internal_static/renderer/ccShaders.o: \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShaders.cpp \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShaders.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCGL.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformConfig.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCGL-android.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformMacros.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccConfig.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformDefine.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCPlatformDefine-android.h \
+ E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Position_uColor.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Position_uColor.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionColor.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionColor.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTexture.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTexture.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureA8Color.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureA8Color.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColor.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColor.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColor_noMVP.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColor_noMVP.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColorAlphaTest.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTexture_uColor.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTexture_uColor.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionColorLengthTexture.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionColorLengthTexture.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label_df.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label_df_glow.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label_normal.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label_outline.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_PositionTex.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_Color.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_ColorTex.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_PositionNormalTex.vert \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_ColorNormal.frag \
+ E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_ColorNormalTex.frag
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShaders.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShaders.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCGL.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCGL.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformConfig.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformConfig.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCGL-android.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCGL-android.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformMacros.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformMacros.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./base/ccConfig.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./base/ccConfig.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/CCPlatformDefine.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/CCPlatformDefine.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./platform/android/CCPlatformDefine-android.h:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./platform/android/CCPlatformDefine-android.h:
 
-D:/tools/cocos/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h:
+E:/android/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Position_uColor.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Position_uColor.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Position_uColor.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Position_uColor.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionColor.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionColor.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionColor.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionColor.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTexture.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTexture.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTexture.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTexture.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureA8Color.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureA8Color.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureA8Color.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureA8Color.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColor.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColor.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColor.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColor.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColor_noMVP.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColor_noMVP.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColor_noMVP.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColor_noMVP.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTextureColorAlphaTest.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTextureColorAlphaTest.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTexture_uColor.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTexture_uColor.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionTexture_uColor.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionTexture_uColor.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionColorLengthTexture.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionColorLengthTexture.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_PositionColorLengthTexture.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_PositionColorLengthTexture.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label_df.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label_df.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label_df_glow.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label_df_glow.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label_normal.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label_normal.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_Label_outline.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_Label_outline.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_PositionTex.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_PositionTex.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_Color.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_Color.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_ColorTex.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_ColorTex.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_PositionNormalTex.vert:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_PositionNormalTex.vert:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_ColorNormal.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_ColorNormal.frag:
 
-D:\cocos_quick\Quick-Cocos2dx\/cocos/./renderer/ccShader_3D_ColorNormalTex.frag:
+E:\GitRoot\qcocos_game\cctest\frameworks\cocos2d-x/cocos/./renderer/ccShader_3D_ColorNormalTex.frag:

@@ -22,6 +22,8 @@ function MyApp:ctor()
     MyApp.super.ctor(self)
 end
 
+
+
 function MyApp:run()
 
     audio.loadFile("res/sound/beep.ogg",function()

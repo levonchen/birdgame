@@ -88,7 +88,10 @@ function BulletLayer:getInstance()
 		if( bullet:getParent() == nil )then
 			bullet:addTo(self)
 		end
+		
 		bullet.bullettype = type
+		bullet:updateBulletType(type)
+
 		self:pushBullet( bullet )
 		bullet:setPosition(point)
 		if( angle ) then

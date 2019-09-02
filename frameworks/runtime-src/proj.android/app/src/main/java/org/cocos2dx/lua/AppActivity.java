@@ -27,12 +27,53 @@ THE SOFTWARE.
 package org.cocos2dx.lua;
 
 import org.cocos2dx.lib.Cocos2dxActivity;
+import org.cocos2dx.lib.Cocos2dxLuaJavaBridge;
+
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.os.Bundle;
 
 public class AppActivity extends Cocos2dxActivity{
 
+	static AppActivity s_Instance;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+
+		s_Instance = this;
+	}
+
+
+	public static void showExitDialog(final String title, final String msg, final String button1, final String button2, final int luaFunc)
+	{
+		s_Instance.runOnUiThread(new Runnable() {
+			@Override
+			public void run() {
+				//Cocos2dxLuaJavaBridge.retainLuaFunction(luaFuncCallback);
+				//
+				AlertDialog.Builder builder = new AlertDialog.Builder(s_Instance);
+				builder.setTitle(title);
+				builder.setMessage(msg);
+				builder.setPositiveButton(button1, new DialogInterface.OnClickListener(){
+					@Override
+					public void onClick(DialogInterface dialog, int which) {
+						dialog.dismiss();
+						Cocos2dxLuaJavaBridge.callLuaFunctionWithString(luaFunc, "ok");
+						Cocos2dxLuaJavaBridge.releaseLuaFunction(luaFunc);
+					}
+				});
+				builder.setNegativeButton(button2, new DialogInterface.OnClickListener() {
+					@Override
+					public void onClick(DialogInterface dialog, int which) {
+						dialog.dismiss();
+						Cocos2dxLuaJavaBridge.callLuaFunctionWithString(luaFunc, "cancel");
+						Cocos2dxLuaJavaBridge.releaseLuaFunction(luaFunc);
+					}
+				});
+
+				builder.setCancelable(false);
+				builder.create().show();
+			}
+		});
 	}
 }

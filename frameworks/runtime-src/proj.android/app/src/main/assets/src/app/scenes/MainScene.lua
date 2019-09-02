@@ -1,4 +1,6 @@
 
+local CommonUtils = require("app.utils.CommonUtils")
+
 local MainScene = class("MainScene", function()
     return display.newScene("MainScene")
 end)
@@ -14,6 +16,7 @@ function MainScene:ctor()
     self.background = nil;
     self.startButton = nil;
     self.boomLabel = 0
+    self.score = 0
 
     self:initSrc()
     self:initView()
@@ -46,6 +49,8 @@ function MainScene:updateMain( dt )
     MonsterLayer:getInstance():updateLayer( dt )
     
     self.background:updateBackground(dt)
+
+    self.ScoreLabel:setString(self.score)
 end
 
 function MainScene:initView()
@@ -70,7 +75,11 @@ function MainScene:initView()
 
 	local buttle = display.newSprite("#ufo1.png", display.left+130, 50):addTo(self)
 	buttle:addNodeEventListener(cc.NODE_TOUCH_EVENT, handler(self, self.touchButtle))
-	buttle:setTouchEnabled(true)
+    buttle:setTouchEnabled(true)
+    
+    self.ScoreLabel = display.newTTFLabel({text = "0", size = 32})
+    :align(display.CENTER, display.left+180, 30)
+    :addTo(self)
 end
 
 
@@ -126,6 +135,8 @@ function MainScene:initEvent(uiRoot)
                     end
 
                     audio.playEffect("res/sound/beep.ogg", true)
+
+                    self.score = 0
                 end
 
 
@@ -173,6 +184,8 @@ function MainScene:updateCollision()
                         print("add boom count")
                         HeroLayer:getInstance():getHero():acquireBoom()
                     end
+
+                    self.score =  self.score + 1
                 end
 
             end
@@ -188,12 +201,12 @@ function MainScene:updateCollision()
 		else
             value:setState("Dead")
 
-            local monType = value:getMonsterType() 
+            --local monType = value:getMonsterType() 
             --print("Monster Type:" .. monType)
-            if  ( MonsterEnum.Boom_Monster == monType ) then
-                print("add boom count")
-                HeroLayer:getInstance():getHero():acquireBoom()
-            end
+            --if  ( MonsterEnum.Boom_Monster == monType ) then
+            --    print("add boom count")
+            --    HeroLayer:getInstance():getHero():acquireBoom()
+            --end
 		end
 
 		
@@ -208,7 +221,8 @@ function MainScene:updateCollision()
 end
 
 function MainScene:onEnter()
-    
+      --只需要设置一次，不用每个scene都设置
+      CommonUtils.setupBackKeyForAndroid()
 end
 
 function MainScene:onExit()
